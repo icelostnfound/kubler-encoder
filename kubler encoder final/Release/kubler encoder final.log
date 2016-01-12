@@ -1,0 +1,29 @@
+﻿生成启动时间为 2016/1/12 13:06:38。
+     1>项目“D:\Documents\kubler-encoder\kubler encoder final\kubler encoder final.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual_studio_2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\kubler encoder final.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\visual_studio_2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\kubler encoder final.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "kubler encoder final.cpp" "kubler encoder finalDlg.cpp" mscomm1.cpp
+         kubler encoder final.cpp
+         kubler encoder finalDlg.cpp
+     1>kubler encoder finalDlg.cpp(182): warning C4244: “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>kubler encoder finalDlg.cpp(190): warning C4244: “=”: 从“wchar_t”转换到“char”，可能丢失数据
+     1>kubler encoder finalDlg.cpp(284): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>kubler encoder finalDlg.cpp(313): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         mscomm1.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\kubler encoder final.res" "kubler encoder final.rc" 
+       Link:
+         D:\visual_studio_2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Documents\kubler-encoder\Release\kubler encoder final.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\visual_studio_2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"D:\Documents\kubler-encoder\Release\kubler encoder final.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Documents\kubler-encoder\Release\kubler encoder final.lib" /MACHINE:X86 /SAFESEH "Release\kubler encoder final.res"
+         "Release\kubler encoder final.obj"
+         "Release\kubler encoder finalDlg.obj"
+         Release\mscomm1.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         kubler encoder final.vcxproj -> D:\Documents\kubler-encoder\Release\kubler encoder final.exe
+     1>已完成生成项目“D:\Documents\kubler-encoder\kubler encoder final\kubler encoder final.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.05
